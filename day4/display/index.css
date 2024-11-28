@@ -1,0 +1,23 @@
+.container {
+  background-color: yellow;
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.box {
+  width: 500px;
+  height: 150px;
+  border: 4px solid black;
+}
+
+.box-2 {
+  flex-grow: 1;
+}
+
+.center {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
