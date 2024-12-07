@@ -1,1 +1,1 @@
-Traning
+Web Traning
