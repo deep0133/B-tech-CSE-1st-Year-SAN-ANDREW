@@ -1,0 +1,32 @@
+# Steps to Submit Your Links:
+
+1) Open the Link:
+  * Click on the link provided in the repository and open it in your browser.
+
+2) Login with Your Google Account:
+  * Ensure you are logged in with your Google account to access the sheet.
+
+3) Add Your Details via Comments:
+    Since direct editing is not allowed, you will need to use the Comment feature to provide your details.
+  
+  * Right-click on the cell where your information needs to be added.
+  * Select "Comment" from the menu.
+  * Add your information in the comment box.
+
+4) Details to Provide:
+    You need to comment with the following 5 links:
+
+  * GitHub Link: Your GitHub profile link.
+  * Task Completed GitHub Link: The GitHub repository link for your completed task.
+  * Task Live Link: The live link for your task (if applicable).
+  * Project GitHub Link: The GitHub repository link for your project.
+  * Project Live Link: The live demo link for your project.
+
+
+
+For Morning Batch :
+    https://docs.google.com/spreadsheets/d/1LrFxkm143F0uwYg784bc23XuD7jiTtW9M3pc06L15k0/edit?pli=1&gid=0#gid=0
+
+
+For Evening Batch :
+    https://docs.google.com/spreadsheets/d/1LrFxkm143F0uwYg784bc23XuD7jiTtW9M3pc06L15k0/edit?pli=1&gid=1485161080#gid=1485161080
