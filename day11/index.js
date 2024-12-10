@@ -1,6 +1,6 @@
 console.log("---------Welcome in js---------");
 
-const apiKey = "30da20a5816341658f682fe41a687a12";
+const apiKey = "30dv20a5813341658f6u2fe41a687a52";
 
 const url = "https://newsapi.org/v2/top-headlines?country=us&apiKey=" + apiKey;
 
