@@ -1,0 +1,15 @@
+/* external css */
+
+.cse {
+  height: 100px;
+  border: 4px solid green;
+  width: 400px;
+  background: blue;
+  color: white;
+  margin-top: 100px;
+  background-image: url("");
+  font-size: 50px;
+}
+.btech {
+  background: red;
+}

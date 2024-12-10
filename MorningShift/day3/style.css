@@ -1,0 +1,39 @@
+body {
+  min-height: 100svh;
+  background-color: #f2f4f7;
+}
+
+.heading {
+  color: blue;
+}
+
+.login-form {
+  width: 40%;
+  background-color: white;
+}
+
+p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+input {
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 250px;
+}
+
+.box {
+  width: 500px;
+  height: 500px;
+  background-color: yellow;
+}
+
+.sub-box {
+  width: 250px;
+  height: 250px;
+  background-color: green;
+  color: white;
+  padding-top: 50px;
+}

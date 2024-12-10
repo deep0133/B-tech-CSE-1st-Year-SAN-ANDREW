@@ -1,0 +1,46 @@
+.logo {
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.container {
+  background-color: white;
+  min-height: 100vh;
+  padding: 50px;
+}
+
+.hero {
+  display: flex;
+}
+
+.left {
+  width: 60%;
+  h1 {
+    font-size: 68px;
+  }
+  button {
+    padding: 20px;
+    border: 4px solid rgba(0, 0, 0, 0.406);
+    border-radius: 10px;
+    font-weight: 800;
+    font-size: 16px;
+  }
+}
+.right {
+  width: 40%;
+}
+
+.card {
+  margin: 50px;
+  background-color: rgb(24, 185, 24);
+  column-rule: black;
+  padding: 20px;
+  padding-bottom: 100px;
+  border-radius: 20px;
+  rotate: -2deg;
+}
+
+.bricolage-grotesque {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-optical-sizing: auto;
+}

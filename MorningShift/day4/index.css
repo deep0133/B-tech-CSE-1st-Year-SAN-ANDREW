@@ -1,0 +1,62 @@
+/* .title {
+  color: chartreuse;
+}
+
+#welcome {
+  background-color: black;
+}
+
+.heading {
+  font-size: 30px;
+  color: yellow;
+}
+
+.box {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+}
+
+.sub-box {
+  height: 250px;
+  width: 250px;
+  background-color: rgb(170, 147, 147);
+  padding: 20px;
+  border: 10px solid green;
+} */
+
+body {
+  position: relative;
+}
+.container {
+  width: 100%;
+  height: 100%;
+  background-color: yellow;
+  position: relative;
+  z-index: 1;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  border: 4px solid black;
+}
+
+.box-1 {
+  background-color: red;
+  z-index: 88;
+  position: relative;
+}
+.box-2 {
+  background-color: blue;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  /* bottom: 0; */
+  /* right: 100px; */
+}
+.box-3 {
+  position: relative;
+  background-color: green;
+  z-index: 99;
+}
